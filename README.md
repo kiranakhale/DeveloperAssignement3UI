@@ -1,3 +1,10 @@
+Steps to run the DeveloperAssignementUI project.
+
+1. Clone or download the project.
+2. Change the contants.ts to point the hosted WebAPi URL of the DeveloperAssignement WebAPI Application.
+3. Go to cmd and then run using ng build to restore nuget packages and then run command ng serve
+
+
 # AngularSpa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
